@@ -1,2 +1,2 @@
 # ddos
-powerful layer 7 protocol tls floder
+powerful layer 7 protocol tls flooder
